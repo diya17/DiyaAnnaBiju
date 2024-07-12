@@ -1,4 +1,4 @@
-# ![Profile Picture](https://github.com/diya17/DiyaAnnaBiju/blob/main/DiyaBiju.jpeg) Diya Anna Biju 
+# <img src="https://github.com/diya17/DiyaAnnaBiju/blob/main/DiyaBiju.jpeg" alt="Profile Picture" width="50" height="50" style="border-radius:50%;"> Diya Anna Biju 
 
 <!--Introduction -->
 I'm **Diya Biju**, a passionate and dedicated **Full-Stack Engineer** with over 3 years of experience in creating and optimizing web applications. Currently, I'm a software developer at the **Digital Innovation Group (DigIng) at ASU**, where I collaborate with researchers and faculty on open-source digital humanities research projects like Giles and Citesphere using **Java** and **Spring**.
