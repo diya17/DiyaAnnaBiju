@@ -1,7 +1,7 @@
-# <img src="https://github.com/diya17/DiyaAnnaBiju/blob/main/DiyaBiju.jpeg" alt="Profile Picture" width="190px" height="190px" style="border-radius:60%;"> Diya Anna Biju 
+<img src="https://github.com/diya17/DiyaAnnaBiju/blob/main/DiyaBiju.jpeg" alt="Profile Picture" width="190px" height="190px" style="border-radius:60%;"> # Diya Anna Biju 
 
 <!--Introduction -->
-I'm **Diya Biju**, a passionate and dedicated **Full-Stack Engineer** with over 3 years of experience in creating and optimizing web applications. Currently, I'm a software developer at the **Digital Innovation Group (DigIng) at ASU**, where I collaborate with researchers and faculty on open-source digital humanities research projects like Giles and Citesphere using **Java** and **Spring**.
+I'm a passionate and dedicated **Full-Stack Engineer** with over 3 years of experience in creating and optimizing web applications. Currently, I'm a software developer at the **Digital Innovation Group (DigIng) at ASU**, where I collaborate with researchers and faculty on open-source digital humanities research projects like Giles and Citesphere using **Java** and **Spring**.
 
 I recently graduated with a **Master's in Computer Science from ASU**, where I delved into advanced topics such as software architecture, design patterns, and the Spring framework. My proficiency in these areas is further demonstrated by two certifications from LinkedIn. Before ASU, I spent over three years as a **Senior Software Engineer at Freshworks**, where I developed and optimized several web applications, leading to improved user experiences and higher conversion rates.
 
