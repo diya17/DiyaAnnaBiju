@@ -80,10 +80,6 @@ I am passionate about developing innovative and scalable solutions that address 
 
 ---
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/diya-anna-biju/), [GitHub](https://github.com/diya17), or [Email](mailto:diyanna.3@gmail.com).
-
----
-
 ### Connect with Me
 [![Linkedin](https://img.shields.io/badge/-DiyaBiju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diya-anna-biju/)
 [![Gmail](https://img.shields.io/badge/-DiyaBiju?style=flat&logo=Gmail&logoColor=white)](mailto:diyanna.3@gmail.com)
