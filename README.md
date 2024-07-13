@@ -85,5 +85,5 @@ I am passionate about developing innovative and scalable solutions that address 
 
 ### Connect with Me
 [![Linkedin](https://img.shields.io/badge/-DiyaBiju-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diya-anna-biju/)
-[![Gmail](https://img.shields.io/badge/-DiyaBiju?style=flat&logo=Gmail&logoColor=white)](mailto:diyanna.3@gmail.com)
+[![Gmail](https://img.shields.io/badge/-DiyaBiju-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diyanna.3@gmail.com)
 [![Github](https://img.shields.io/badge/-DiyaBiju-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/diya17)
